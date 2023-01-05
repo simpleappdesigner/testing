@@ -1,0 +1,5 @@
+.venv
+Test*.html
+Test*.xml
+/assets/*
+logs/*
